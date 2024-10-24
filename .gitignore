@@ -1,0 +1,5 @@
+node_modules
+pub_keys/*
+.env
+db.json
+!pub_keys/.gitkeep
