@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "nodemon ./src/spin.ts"
+    "dev": "nodemon ./src/spin.ts",
+    "build": "npx tsc"
   },
   "type": "module",
   "devDependencies": {
